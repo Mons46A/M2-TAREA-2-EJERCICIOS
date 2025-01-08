@@ -37,8 +37,8 @@ Constructores
 Replica el ejercicio anterior y por medio constructores inicializar los atributos:
 - ***Primer constructor***: recibe: la ciudad, el barrio y el color.
 - ***Segundo constructor***: recibe: el barrio, el color y los pisos.
-- ***Tercer constructor**: recibe: los pisos, las habitaciones, los baños y las
+- ***Tercer constructor***: recibe: los pisos, las habitaciones, los baños y las
 cocinas.
-- En la clase principal mostrar la información de la casa generada por cada
+En la clase principal mostrar la información de la casa generada por cada
 constructor por medio de los **getters**, para esto deberás crear 3 objetos
 diferentes en la clase principal para representar cada constructor.
